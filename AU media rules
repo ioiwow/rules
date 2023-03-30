@@ -1,0 +1,6 @@
+payload:
+  # > ABC iview
+  - PROCESS-NAME,ABC.Iview.android
+  - DOMAIN-KEYWORD,iview.abc
+  - DOMAIN,iview.abc.net.au
+  - DOMAIN-SUFFIX,iview.abc.net.au
